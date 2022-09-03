@@ -6,7 +6,7 @@
 
 ## Design Previews
 
-| [🖥️ Desktop Preview](./images/leon-template-desktop.png) | [📱 Mobile Preview](./images/leon-template-mobile.png) |
+| [🖥️ Desktop Preview](./images/Leon-template-desktop.png) | [📱 Mobile Preview](./images/Leon-template-mobile.png) |
 | -------------------------------------------------- | ----------------------------------------------- |
 
 ## Implemented Features
