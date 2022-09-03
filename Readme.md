@@ -2,11 +2,11 @@
 
 ## Live Website
 
-💻 Check the live website from [here]()
+💻 Check the live website from [here](https://belal-aljumaa.github.io/Leon-Agency-Template/)
 
 ## Design Previews
 
-| [🖥️ Desktop Preview](images/leon-template-desktop.png) | [📱 Mobile Preview](images/leon-template-mobile.png) |
+| [🖥️ Desktop Preview](./images/leon-template-desktop.png) | [📱 Mobile Preview](./images/leon-template-mobile.png) |
 | -------------------------------------------------- | ----------------------------------------------- |
 
 ## Implemented Features
